@@ -1,0 +1,1 @@
+Command = ['corpquery','ulys_2','(meet [lemma="[survey|witness|scent|peer|peep|stare|sniff|glare|sound|examine|taste|glimpse|listen|spot|ogle|sense|see|sight|study|glance|spy|hear|leer|squint|goggle|look|eye|gaze|watch|discern|check|regard|feel|smell|note|observe|discover|notice|overhear|perceive|view]"] [word="Bloom"] -5 5)']

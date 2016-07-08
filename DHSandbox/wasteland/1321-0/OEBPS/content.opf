@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/1321</dc:identifier>
+    <dc:creator opf:file-as="Eliot, T. S. (Thomas Stearns)">T. S. Eliot</dc:creator>
+    <dc:title>The Waste Land</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Poetry</dc:subject>
+    <dc:subject>Prose poems</dc:subject>
+    <dc:date opf:event="publication">1998-05-01</dc:date>
+    <dc:date opf:event="conversion">2016-05-01T08:13:12.232150+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/1321/1321-h/1321-h.htm</dc:source>
+  </metadata>
+  <manifest>
+    <item media-type="text/css" href="pgepub.css" id="item1"/>
+    <item media-type="text/css" href="0.css" id="item2"/>
+    <item media-type="text/css" href="1.css" id="item3"/>
+    <!--Chunk: size=54857 Split on div-->
+    <item media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html" id="item4"/>
+    <!--Chunk: size=21848-->
+    <item media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-1.htm.html" id="item5"/>
+    <item media-type="application/x-dtbncx+xml" href="toc.ncx" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref linear="yes" idref="item4"/>
+    <itemref linear="yes" idref="item5"/>
+  </spine>
+</package>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/1321"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Waste Land</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1" id="np-1">
+      <navLabel>
+        <text>THE WASTE LAND</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint playOrder="2" id="np-2">
+      <navLabel>
+        <text>I. THE BURIAL OF THE DEAD</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html#pgepubid00001"/>
+    </navPoint>
+    <navPoint playOrder="3" id="np-3">
+      <navLabel>
+        <text>II. A GAME OF CHESS</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html#pgepubid00002"/>
+    </navPoint>
+    <navPoint playOrder="4" id="np-4">
+      <navLabel>
+        <text>III. THE FIRE SERMON</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html#pgepubid00003"/>
+    </navPoint>
+    <navPoint playOrder="5" id="np-5">
+      <navLabel>
+        <text>IV. DEATH BY WATER</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html#pgepubid00004"/>
+    </navPoint>
+    <navPoint playOrder="6" id="np-6">
+      <navLabel>
+        <text>V. WHAT THE THUNDER SAID</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html#pgepubid00005"/>
+    </navPoint>
+    <navPoint playOrder="7" id="np-7">
+      <navLabel>
+        <text>NOTES ON "THE WASTE LAND"</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1321@1321-h@1321-h-0.htm.html#pgepubid00006"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,4 @@
+ipython
+networkx
+click
+-e git://github.com/davidmcclure/textplot.git#egg=textplot

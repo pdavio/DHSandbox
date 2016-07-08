@@ -1,0 +1,168 @@
+WHAT IS HUMANITIES COMPUTING AND WHAT IS NOT?
+
+We are the mimics. Clouds are pedagogues. (Wallace Stevens, Notes Toward a Supreme Fiction.[1])
+
+Any intelligent entity that wishes to reason about its world encounters an important, inescapable fact: reasoning is a process that goes on internally, while most things it wishes to reason about exist only externally.[2]
+
+Abstract
+
+I'll give the short answer to the question »what is humanities computing?« up front: it is foreshadowed by my two epigraphs. Humanities computing is a practice of representation, a form of modeling or, as Wallace Stevens has it, mimicry. It is also (as Davis and his co-authors put it) a way of reasoning and a set of ontological commitments, and its representational practice is shaped by the need for efficient computation on the one hand, and for human communication on the other. We'll come back to these ideas, but before we do, let's stop for a moment to consider why one would ask a question such as »what is humanities computing?«
+
+First, I think the question arises because it is important to distinguish a tool from the various uses that can be made of it, if for no other reason than to evaluate the effectiveness of the tool for different purposes. A hammer is very good nail-driver, not such a good screw-driver, a fairly effective weapon, and a lousy musical instrument. Because the computer is – much more than the hammer – a general-purpose machine (in fact, a general-purpose modeling machine) it tends to blur distinctions among the different activities it enables. Are we word-processing or doing email? Are we doing research or shopping? Are we entertaining ourselves or working? It's all data: isn't it all just data processing? Sure it is, and no it isn't. The goals, rhetoric, consequences, benefits, of the various things we do with computers are not the same, in spite of the hegemony of Windows and the Web. All our activities may all look the same, and they may all take place in the same interface, the same ›discourse universe‹ of icons, menus, and behaviors, but they're not all equally valuable, they don't all work on the same assumptions – they're not, in fact, interchangeable. To put a more narrowly academic focus on all this, I would hazard a guess that everyone reading this uses a word-processor and email as basic tools of the profession, and I expect that many readers are also in the humanities. Even so, you do not all do humanities computing – nor should you, for heaven's sake – any more than you should all be medievalists, or modernists, or linguists.
+
+So, one of the many things you can do with computers is something that I would call humanities computing, in which the computer is used as tool for modeling humanities data and our understanding of it, and that activity is entirely distinct from using the computer when it models the typewriter, or the telephone, or the phonograph, or any of the many other things it can be.
+
+The second reason one might ask the question »what is humanities computing« is in order to distinguish between exemplars of that activity and charlatans (c.f. Tito Orlandi) or pretenders to it. Charlatans are, in Professor Orlandi's view, people who present as »humanities computing« some body of work that is not that. It may be computer-based (for example, it may be published on the Web), and it may present very engaging content, but if it doesn't have a way to be wrong, if one can't say whether it does or doesn't work, whether it is or isn't internally consistent and logically coherent, then it's something other than humanities computing. The problem with charlatanism is that it undersells the market by providing a quick-and-dirty simulacrum of something that, done right, is expensive, time-consuming, and difficult. Put another way, charlatans trade intellectual self-consistency and internal logical coherence (in what probably ought to be a massive and complicated act of representation) for surface effects, immediate production, and canned conclusions. When one does this, one is competing unfairly with projects that are more thorough and thoughtful, both in their approach to the problem of representation and in their planning and testing of technical and intellectual infrastructure.
+
+The bad news here is that all humanities computing projects today are involved in some degree of charlatanism, even the best of them. But degree matters, and one way in which that degree can be measured is by the interactivity offered to users who wish to frame their own research questions. If there is none offered, and no interactivity, then the project is probably pure charlatanism. If it offers some (say, keyword searching), then it can be taken a bit more seriously. If it offers structured searching, a bit more so. If it offers combinatorial queries, more so. If it allows you to change parameters and values in order to produce new models, it starts to look very much like something that must be built on a thoroughgoing representation. If it lets you introduce new algorithms for calculating the outcomes of changed parameters and values, then it is extremely well designed indeed. And so on. This evaluative scale is not, as it seems to be, based on functional characteristics: it uses those functional characteristics as an index to the infrastructure that is required to support certain kinds of functionality. On this scale of relative charlatanism, no perfectly exemplary project exists, as far as I know. But you see the principle implied by this scale – the more room a resource offers for the exercise of independent imagination and curiosity, the more substantially well thought-out, well-designed, and well-produced a resource it must be.
+
+Finally, and most candidly, one asks the question »what is humanities computing« in order to justify, on the basis of distinctions like those I have just drawn, new and continuing investments of personal, professional, institutional, and cultural resources. This investment could take the form of a funded project, or a new undergraduate or graduate degree, or a new Center or Institute. At this level, the activity that is humanities computing competes with other intellectual pursuits – history, literary study, religious study, etc. – for the hearts, minds, and purses of the university, and external funding agencies, even though, in practice, the particulars of humanities computing may well – and will likely – call upon and fall into one of its competitors' traditional disciplinary areas of expertise. So, as Willard McCarty has often noted, we have a problem distinguishing between computing in the service of a research agenda framed by the traditional parameters of the humanities, or, on the other hand, the much rarer, more peculiar case where the humanities research agenda itself is framed and formed by what we can do with computers.
+
+So, given that humanities computing isn't general-purpose academic computing – isn't word-processing, email, web-browsing – what is it, and how do you know when you're doing it, or when you might need to learn how to do it? At the opening of this discussion, I said that
+
+[h]umanities computing is a practice of representation, a form of modeling or [...] mimicry. It is[...] a way of reasoning and a set of ontological commitments, and its representational practice is shaped by the need for efficient computation on the one hand, and for human communication on the other.[3]
+
+I've long believed this, but the terms of these assertions are drawn from Davis, Shrobe, and Szolovits, What is a Knowledge Representation? in a 1993 issue of AI Magazine. As I unpack these terms, one at a time, I will begin by expanding my quotation of Davis et al. a little bit, stopping on each of six points to look at some examples from the realm of humanities computing, and concluding with some observations about why all of this matters.
+
+I. Humanities computing as model or mimicry
+
+Davis et al. use the term »surrogate« instead of »mimicry« or »model«. Here's what they say about surrogates:
+
+The first question about any surrogate is its intended identity: what is it a surrogate for? There must be some form of correspondence specified between the surrogate and its intended referent in the world; the correspondence is the semantics for the representation. The second question is fidelity: how close is the surrogate to the real thing? What attributes of the original does it capture and make explicit, and which does it omit? Perfect fidelity is in general impossible, both in practice and in principle. It is impossible in principle because any thing other than the thing itself is necessarily different from the thing itself (in location if nothing else). Put the other way around, the only completely accurate representation of an object is the object itself. All other representations are inaccurate; they inevitably contain simplifying assumptions and possibly artifacts.[4]
+
+I.1 Example
+
+A catalogue record (vs. full-text representation). The catalogue record is obviously not the thing it refers to: it is, nonetheless, a certain kind of surrogate, and it captures and makes explicit certain attributes of the original object – title, author, publication date, number of pages, topical reference. It obviously omits others – the full text of the book, for example. Now, other types of surrogates would capture those features (a full-text transcription, for example) but would leave out still other aspects (illustrations, cover art, binding). You can go on pushing that as far as you like, or until you come up with a surrogate that is only distinguished from the original by not occupying the same space, but the point is all of these surrogates along the way are »inaccurate; they inevitably contain simplifying assumptions and possibly artifacts«[5] – meaning new features introduced by the process of creating the representation. Humanities computing, as a practice of knowledge representation, grapples with this realization that its representations are surrogates in a very self-conscious way, more self-conscious, I would say, than we generally are in the humanities when we ›represent‹ the objects of our attention in essays, books, and lectures.
+
+II. Humanities computing as a way of reasoning
+
+Actually, what Davis et al. say is that any knowledge representation is a »fragmentary theory of intelligent reasoning,«[6] and any knowledge representation begins with.
+
+[...] some insight indicating how people reason intelligently, or [...] some belief about what it means to reason intelligently at all [..] A representation's theory of intelligent reasoning is often implicit, but can be made more evident by examining its three components: (i) the representation's fundamental conception of intelligent inference; (ii) the set of inferences the representation sanctions; and (iii) the set of inferences it recommends. Where the sanctioned inferences indicate what can be inferred at all, the recommended inferences are concerned with what should be inferred. (Guidance is needed because the set of sanctioned inferences is typically far too large to be used indiscriminantly.) Where the ontology we examined earlier tells us how to see, the recommended inferences suggest how to reason. These components can also be seen as the representation's answers to three corresponding fundamental questions: (i) What does it mean to reason intelligently? (ii) What can we infer from what we know? and (iii) What ought we to infer from what we know? Answers to these questions are at the heart of a representation's spirit and mindset; knowing its position on these issues tells us a great deal about it.[7]
+
+Later on, the authors quote a foundational paper by Marvin Minsky, setting forth the frame theory. Minsky explains:
+
+Whenever one encounters a new situation (or makes a substantial change in one's viewpoint), he selects from memory a structure called a frame; a remembered framework to be adapted to fit reality by changing details as necessary. A frame [...] [represents] a stereotyped situation, like being in a certain kind of living room, or going to a child's birthday party.[8]
+
+And they go on to point out, in this quotation, how reasoning and representation are intertwined – how we think by way of representations.
+
+II.1 Examples
+
+A concordance. (i) the concordance's fundamental conception of intelligent inference? It assumes that verbal patterns in a text are a key to the meaning of that text. (ii) the set of inferences the concordance sanctions? It would support certain kinds of stylistic analysis, because it can report the frequency with which certain words are used in a text, or the frequency with which words of a certain length are used in a text, and it would support the inference that some words are not important, assuming it can use a stop-list, and if it incorporated a lemmatiser, it would support the notion that word-stems are more important than actual word forms, but (iii) the set of inferences it recommends? Most concordancing software makes sorting by frequency and examination of keywords in context much easier than other functions (or forms of inference).
+
+A relational database. Think about how a relational database establishes the grounds of rational inference by establishing fields in records in tables, and think about how it sanctions any sort of question having to do with any combination of the elements in its tables, but actually recommends certain kinds of queries by establishing relationships between elements of different tables.
+
+III. Humanities computing as a set of ontological commitments
+
+On the matter of ontological commitments, Davis et al. say:
+
+[S]electing a representation means making a set of ontological commitments. The commitments are in effect a strong pair of glasses that determine what we can see, bringing some part of the world into sharp focus, at the expense of blurring other parts. These commitments and their focusing/blurring effect are not an incidental side effect of a representation choice; they are of the essence: a KR is a set of ontological commitments. It is unavoidably so because of the inevitable imperfections of representations. It is usefully so because judicious selection of commitments provides the opportunity to focus attention on aspects of the world we believe to be relevant.[9]
+
+III.1 Examples
+
+OHCO (Renear, Mylonas, Durand: Refining our Notion of What Text Really Is from 1993 – same year as the Davis article, though to be fair it draws on an earlier piece, S. J. DeRose, D. G. Durand, E. Mylonas, and A. H. Renear (1990), What is Text, Really?). This view of text says that text is an Ordered Hierarchy of Content Objects, which means, for example, that content objects nest – paragraphs occur within chapters, chapters in volumes, and so on. It also means that a language that captures ordered hierarchical relationships and allows content to be carried within its expression of those relationships can capture what matters about text. Hence SGML. But, as Jerry McGann and others have pointed out, this view of text misses certain textual ontologies – metaphor, for example – because they are not hierarchical, or more accurately, they violate hierarchy. Davis et al. would say that's not a sign of a flaw in SGML (or XML, which shares the same requirement for nesting) or in the OHCO thesis, but a sign that both are true knowledge representations – they bring certain things into focus and blur others, allowing us to pay particular attention to particular aspects of what's out there.
+
+Deborah Parker's Dante Project: For a much simpler example, consider Deborah Parker's SGML edition of Dante's Inferno (<http://www.iath.virginia.edu/dante> (31.10.2002)). In this edition, Parker has marked up (in the TEI DTD) all of the cantos, stanzas, and lines in Dante's poem, and then all of the proper names and epithets, distinguishing mythical, historical, biblical, and literary sources, different types of animals, different types of people, regularizing forms of proper names, etc. All of this implies that the form of the poem is important as a kind of substrate for references to proper names, and that by paying attention to the categories in which named things participate, we can learn something important about this poem.
+
+IV. Humanities computing as shaped by the need for efficient computation
+
+Davis et al. explain:
+
+From a purely mechanistic view, reasoning in machines (and somewhat more debatably, in people) is a computational process. Simply put, to use a representation we must compute with it. As a result, questions about computational efficiency are inevitably central to the notion of representation.[10]
+
+And later, they point out that different modes of representation have different efficiencies:
+
+Traditional semantic nets facilitate bi-directional propagation by the simple expedient of providing an appropriate set of links, while rule-based systems facilitate plausible inferences by supplying indices from goals to rules whose conclusion matches (for backward chaining) and from facts to rules whose premise matches (forward chaining).[11]
+
+IV.1 Examples
+
+Markup and computation. The reason for requiring that elements nest properly within a specified hierarchy is to enable efficient computation. In fact, the SGML grammar in its original form was really too flexible to be efficient, which is why certain features pemitted in the grammar (like overlapping or concurrent hierarchies) were never implemented in software. XML simplifies out of SGML some of its other expressive possibilities – possibilities that made SGML difficult to write software for – and as a result, suddenly we have lots more software for XML than we ever had for SGML. On the other hand, none of this software is any good at computing things that can't be expressed in neatly nesting hierarchies.
+
+Latent semantic indexing. Compare the characteristics of the concordance, and its efficiencies, with those of latent semantic indexing. Like the concordance,
+
+LSI relies on the constituent terms of a document to suggest the document's semantic content. However, the LSI model views the terms in a document as somewhat unreliable indicators of the concepts contained in the document. It assumes that the variability of word choice partially obscures the semantic structure of the document. By reducing the dimensionality of the term-document space, the underlying, semantic relationships between documents are revealed, and much of the ›noise‹ (differences in word usage, terms that do not help distinguish documents, etc.) is eliminated. LSI statistically analyses the patterns of word usage across the entire document collection, placing documents with similar word usage patterns near each other in the term-document space, and allowing semantically-related documents to be near each other even though they may not share terms« (Letsche and Barry, Large-Scale Information Retrieval With Latent Semantic Indexing[12]).
+
+If you really believed that the occurrence of a particular word was the important thing, then you'd want to be working with the efficiencies of the concordance – but if, on the other hand, you believed that meaning was more important than the word chosen to express it, you'd want to be working with the efficiencies of latent semantic indexing.
+
+V. Humanities computing as shaped by the need for human communication
+
+Davis et al. conclude that any efficiency stands opposed in some way to the fullness of expression, and that
+
+[e]ither end of this spectrum seems problematic: we ignore computational considerations at our peril, but we can also be overly concerned with them, producing representations that are fast but inadequate for real use.[13]
+
+Of course, there is something about the brute facticity of the computer that makes its results – especially when they are fast – seem definitive, so much so that we may overlook the inadequacy of a representation that seems to work well computationally. But eventually, we are likely to recognize inadequacy, and we are more likely to do so if we have not only to use these representations, but also to produce them. On this final point, Davis et al. go on to say:
+
+Knowledge representations are also the means by which we express things about the world, the medium of expression and communication in which we tell the machine (and perhaps one another) about the world. [...] a medium of expression and communication for use by us. That in turn presents two important sets of questions. One set is familiar: How well does the representation function as a medium of expression? How general is it? How precise? Does it provide expressive adequacy? etc. An important question less often discussed is, How well does it function as a medium of communication? That is, how easy is it for us to »talk« or think in that language? What kinds of things are easily said in the language and what kinds of things are so difficult as to be pragmatically impossible? Note that the questions here are of the form »how easy is it?« rather than »can we?« This is a language we must use, so things that are possible in principle are useful but insufficient; the real question is one of pragmatic utility. If the representation makes things possible but not easy, then as real users we may never know whether we have misunderstood the representation and just do not know how to use it, or it truly cannot express some things we would like to say. A representation is the language in which we communicate, hence we must be able to speak it without heroic effort.[14]
+
+V.1 Example
+
+The difficulty of using markup languages. Ever since we started using markup languages like SGML, one has heard expressed the fear that humanists would never be able to speak it »without heroic effort«. To be fair, good (and with XML, readily available) software removes some of the complexity – for example, by offering you only the elements that can legally be used in a particular point in the hierarchy. But still, you have to be able to grasp the purpose and intent of the DTD in order to use it sensibly, you have to understand the principles of stylesheets, and so on. It would probably be accurate, at this moment in the evolution of humanities computing, to say that markup languages are still problematic as a medium of communication. Experts can ›talk‹ or ›think‹ in these languages, but most of us cannot, and there are many examples out there, in discussions on TEI-L (the TEI users list) for example, where the question at issue is exactly whether one has misunderstood the TEI or whether it really cannot express some of the things we would like to say about literary and linguistic texts.
+
+VI. Humanities Computing and Formal Expression
+
+There is also one other feature of knowledge representations that Davis and his co-authors don't mention, because their discussion takes it for granted. That feature is the formal language in which any such representation must be expressed. This formal language can be any one that is
+
+composed of primitive symbols acted on by certain rules of formation (statements concerning the symbols, functions, and sentences allowable in the system) and developed by inference from a set of axioms. The system thus consists of any number of formulas built up through finite combinations of the primitive symbols – combinations that are formed from the axioms in accordance with the stated rules.[15]
+
+For our purposes, what is important about the requirement of formal expression is that it puts humanities computing, or rather the computing humanist, in the position of having to do two things that mostly, in the humanities, we don't do: provide unambiguous expressions of ideas, and provide them according to stated rules. In short, once we begin to express our understanding of, say, a literary text in a language such as XML, a formal grammar that requires us to state the rules according to which we will deploy that grammar in a text or texts, then we find that our representation of the text is subject to verification – for internal consistency, and especially for consistency with the rules we have stated.
+
+Conclusions
+
+Having said what I think humanities computing is, it remains to say what it is good for, or why it matters. Why do we need to worry about whether we can express what we know about the humanities in formal language, in terms that are tractable to computation, in utterances that are internally coherent and consistent with a declared set of rules? Why indeed, when we know that to do this inevitably involves some loss of expressive power, some tradeoff at the expense of nuance, meaning, and significance? – My answer? Navigation and exchange.
+
+We are by now well into a phase of civilization when the terrain to be mapped, explored, and annexed is information space, and what's mapped is not continents, regions, or acres but disciplines, ontologies, and concepts. We need representations in order to navigate this new world, and those representations need to be computable, because the computer mediates our access to this world, and those representations need to be produced at first-hand, by someone who knows the terrain. If, where the humanities should be represented, we in the humanities scrawl, or allow others to scrawl, »Here be dragons«, then we will have failed. We should not refuse to engage in representation simply because we feel no representation can do justice to all that we know or feel about our territory. That's too fastidious. We ought to understand that maps are always schematic and simplified, but those qualities are what make them useful.
+
+In some form, the semantic web is our future, and it will require formal representations of the human record. Those representations – ontologies, schemas, knowledge representations, call them what you will – should be produced by people trained in the humanities. Producing them is a discipline that requires training in the humanities, but also in elements of mathematics, logic, engineering, and computer science. Up to now, most of the people who have this mix of skills have been self-made, but as we become serious about making the known world computable, we will need to train such people deliberately. There is a great deal of work for such people to do – not all of it technical, by any means. Much of this map-making will be social work, consensus-building, compromise. But even that will need to be done by people who know how consensus can be enabled and embodied in a computational medium.
+
+Consensus-based ontologies (in history, music, archaeology, architecture, literature, etc.) will be necessary, in a computational medium, if we hope to be able to travel across the borders of particular collections, institutions, languages, nations, in order to exchange ideas. Those ontologies will in turn exist in a network of topics, a web of ›trading zones‹, to use a term that Willard McCarty has used to explain humanities computing, having borrowed that term from a book that itself borrows concepts of anthropology to explain the practice of physics. And as that genealogy of that metaphor suggests, come tomorrow, we will require the rigor of computational methods in the discipline of the humanities not in spite of, but because of, the way that human understanding and human creativity violate containment, exceed representation, and muddle distinctions.
+
+References and Further Readings
+
+Randal Davis/R. H. Shrobe/P. Szolovits: What is a Knowledge Representation? AI Magazine, 14(1) 1993, pp. 17-33. <http://www.medg.lcs.mit.edu/ftp/psz/k-rep.html> (31.10.2002).
+
+S. J. DeRose/D. G. Durand/E. Mylonas/A. H. Renear: (1990) What is Text, Really? Journal of Computing in Higher Education, 1.2 (1990), pp. 3-26.
+
+»Is Humanities Computing an Academic Discipline?« An Interdisciplinary Seminar at the University of Virginia (1999-2000): <http://www.iath.virginia.edu/hcs/> (31.10.2002).
+
+T.A. Letsche/ W. Berry: arge-Scale Information Retrieval with Latent Semantic Indexing. Information Sciences -Applications 100 (1997), pp. 105-137. <http://www.cs.utk.edu/~berry/lsi++/index.html> (31.10.2002).
+
+Willard McCarty/Matthew Kirschenbaum: Institutional Models for Humanities Computing. <http://www.kcl.ac.uk/humanities/cch/allc/archive/hcim/hcim-021009.htm> (31.10.2002).
+
+Willard McCarty: We Would Know How We Know What We Know. Responding to the Computational Transformation of the Humanities. <http://www.kcl.ac.uk/humanities/cch/wlm/essays/know/know.html> (31.10.2002).
+
+Tito Orlandi: The Scholarly Environment of Humanities Computing. A Reaction to Willard McCarty's talk on The Computational Transformation of the Humanities. <http://RmCisadu.let.uniroma1.it/~orlandi/mccarty1.html> (31.10.2002).
+
+Allen Renear/Elli Mylonas/David Durand: Refining our Notion of What Text Really Is. The Problem of Overlapping Hierarchies. <http://www.stg.brown.edu/resources/stg/monographs/ohco.htm> (31.10.2002).
+
+TEI-L. <http://listserv.brown.edu/archives/tei-l.html> (31.10.2002).
+
+The Text Encoding Initiative Consortium. <http://www.tei-c.org/> (31.10.2002).
+
+John Unsworth (Virginia) 
+
+Prof. Dr. John Unsworth
+Department of English
+Institute for Advanced Technology in the Humanities
+University of Virginia
+304B Bryan Hall
+P.O. Box 400121
+Charlottesville, VA 22904-4121
+jmu2m@virginia.edu
+
+
+(8. November 2002)
+[1]	Alfred A. Knopf: The Collected Poems of Wallace Stevens. New York 1951, p. 384.
+[2]	Randall Davis/R. H. Shrobe/P. Szolovits: What is a Knowledge Representation?. In: Al Magazine 14(1) 1993, p.17-33; see the following site <http://www.medg.lcs.mit.edu/ftp/psz/k-rep.html> (31.10.2002).
+[3]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[4]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[5]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[6]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[7]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[8]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[9]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[10]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[11]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[12]	See <http://www.medg.lcs.mit.edu/ftp/psz/k-rep.html> (31.10.2002).
+[13]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[14]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
+[15]	Davis/Shrobe/Szolovits: What is a Knowledge Representation? (footnote 2).
